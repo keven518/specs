@@ -18,7 +18,7 @@ Lint and fix tool：[FECS](http://fecs.baidu.com/)
 
 
 #### 2 生产力工具推荐
-- 编辑器：Sublime Text 2 / TextMate 2 / Vim / Intellij IDEA
+- 编辑器：[Sublime](http://www.sublimetext.com/2) Text 2 / TextMate 2 / Vim / Intellij IDEA
 - 命令行：iTerm2
 - 浏览器调试环境：Chrome / Firefox + Firebug
 - 移动设备调试环境：Mozilla Fennec
