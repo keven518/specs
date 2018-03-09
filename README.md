@@ -1,4 +1,4 @@
-This repository contains the specifications.
+#### 1 前端规范.
 
 
 - [Javascript编码规范](javascript-style-guide.md) <span class="std-rec">[1.3]</span>
@@ -15,3 +15,25 @@ This repository contains the specifications.
 
 
 Lint and fix tool：[FECS](http://fecs.baidu.com/)
+
+
+#### 2 生产力工具推荐
+- 编辑器：Sublime Text 2 / TextMate 2 / Vim / Intellij IDEA
+- 命令行：iTerm2
+- 浏览器调试环境：Chrome / Firefox + Firebug
+- 移动设备调试环境：Mozilla Fennec
+- 兼容性测试：VirtualBox + Win XP（IE 8）
+- 版本控制工具：GitHub for Mac / Versions / SourceTree
+- FTP工具：Filezilla / ForkLift
+- HTTP抓包及Post/Get模拟：Charles
+- PHP集成环境：XAMPP for Mac / MAMP
+- SQL数据库管理：Sequel Pro
+- 标注工具：Mark Man / xScope
+- 取色拾色器： Frank DeLoupe / Sip / Snip / xScope
+- MarkDown编辑器：Mou
+- 浏览器免刷新开发环境：LiveReLoad / CodeKit
+- CSS Sprite切图工具：SpriteRight
+- Less -> CSS 编译：CodeKit / LiveReLoad / Less
+- 配色方案工具：ColorSchemer Studio
+- 多浏览器Cookie管理：Cookie
+- 图片素材收集：Sparkbox / Pixa
